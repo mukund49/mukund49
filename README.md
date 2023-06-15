@@ -4,8 +4,8 @@
 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about web3
+- Software Engineer Intern at AiDash
+- 🥅 2023 Goals: Learn more about Java.
 - ⚡ Fun fact: I love to Read and Write.
 
 
