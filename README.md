@@ -4,7 +4,7 @@
 
 
 - 🌱 I’m currently learning everything 🤣
-- Software Engineer Intern at AiDash
+- I'm software engineer intern at AiDash
 - 🥅 2023 Goals: Learn more about Java.
 - ⚡ Fun fact: I love to Read and Write.
 
